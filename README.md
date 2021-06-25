@@ -40,10 +40,15 @@
 
 ![kokoro gif](readme_media/kokoro_color_theme_demo.gif)
 
-
 ## Built With
 - Django 3.1.7
 - Python 3.8
 - MySQL
 
+## Developer Notes
+I have chosen to keep the source repository for this project private, at least for now. If you are interested in contributing, learning more about this project, or have any suggestions for improvement, feel free to reach out! <br>
 
+## Author
+Cody W - Myself <br>
+I'm an aspiring software developer from the US. Thank you for taking the time to check out this project. If you enjoy kokoro, please consider giving this repository a star!
+<br> Contact me: codered1227@gmail.com
