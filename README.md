@@ -21,12 +21,22 @@
 #
 
 ## Additional Features
-- Customizable User Profile Page
-- Friendships
-- Write, Edit, and Share kokoro Posts
-- Notifications
-- Alternate Color Theme
-- Contact / Support Page
+### - User Profile Page
+- Profile Image / Avatar
+- Profile Quote
+- Perfect Balance / Your favorite activities
+- Fully-Customizable
+### - Friendships
+- Add / Remove friendships with other kokoro users
+### - Write, Edit, and Share kokoro Posts
+- Posts on kokoro are similar to blog posts
+- Pin Posts from other kokoro users to your profile
+### - Notifications
+- Receive notifications when friends publish a Post, pin your Posts to their profile, or when you receive a friendship request
+### - Alternate Color Theme
+- The 'Change Theme' button will toggle kokoro's alternate color theme for users who don't prefer the main theme
+### - Contact / Support Page
+- Fill out a form to contact kokoro with any app-related issues
 
 ## Built With
 - Django 3.1.7
