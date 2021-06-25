@@ -1,8 +1,11 @@
-<img src='readme_media/kokoro_logo.svg'>
+<div align='center'>
+  <img src='readme_media/kokoro_logo.svg'><br>
 
-### kokoro is a wellness tool focused around the mind, body and soul.
-
-### Live: [getkokoro.herokuapp.com](getkokoro.herokuapp.com)
+  ### kokoro is a wellness tool focused around the mind, body and soul.
+  <img src='https://img.shields.io/badge/kokoro-online-brightgreen'>
+  
+  ### Live: [getkokoro.herokuapp.com](getkokoro.herokuapp.com)
+</div>
 
 #
 
