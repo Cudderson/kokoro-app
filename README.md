@@ -33,10 +33,13 @@
 - Pin Posts from other kokoro users to your profile
 ### - Notifications
 - Receive notifications when friends publish a Post, pin your Posts to their profile, or when you receive a friendship request
-### - Alternate Color Theme
-- The 'Change Theme' button will toggle kokoro's alternate color theme for users who don't prefer the main theme
 ### - Contact / Support Page
 - Fill out a form to contact kokoro with any app-related issues
+### - Alternate Color Theme
+- The 'Change Theme' button will toggle kokoro's alternate color theme for users who don't prefer the main theme
+
+![kokoro gif](readme_media/kokoro_color_theme_demo.gif)
+
 
 ## Built With
 - Django 3.1.7
