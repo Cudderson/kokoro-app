@@ -9,11 +9,19 @@
 
 #
 
+## Table of Contents
+
+1. [About](#About)
+
 # About
 
 ## Find Balance
-### The main goal of kokoro is to improve the lives of its users by organizing their daily activities, classifying each into the mind, body, or soul category.
-![kokoro gif](readme_media/kokoro_pyramid.gif)
+
+<div align='center'>
+  <h3> The main goal of kokoro is to improve the lives of its users by organizing their daily activities, classifying each into the mind, body, or soul category.</h3>
+  
+  <img src='readme_media/kokoro_pyramid.gif' alt="animated gif">
+</div>
 
 #
 
