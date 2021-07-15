@@ -6,7 +6,7 @@
   ### kokoro is a wellness tool focused around the mind, body and soul.
   <img src='https://img.shields.io/badge/kokoro-online-brightgreen'>
   
-  ### Live: [getkokoro.herokuapp.com](getkokoro.herokuapp.com)
+  ### Live: [https://getkokoro.herokuapp.com/](https://getkokoro.herokuapp.com/)
 </div>
 
 ---
